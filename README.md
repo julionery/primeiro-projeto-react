@@ -9,8 +9,8 @@ configurando o Visual Studio para debug em Node e ajustes para melhorar a produt
 - [React](https://reactjs.org/ "ReactJS")
 - [Typescript](https://www.typescriptlang.org/)
 
-
 ### :computer: Bibliotecas e ferramentas:
+- [Axios](https://github.com/axios/axios "Axios")
 - [EditorConfig](https://editorconfig.org/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
