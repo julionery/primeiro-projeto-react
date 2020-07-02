@@ -1,9 +1,12 @@
-<h1 align="center">Primeiro Projeto React</h1>
+<h1 align="center">Primeiro Projeto React (Github Explorer)</h1>
 
 <p align="center">Projeto do terceiro módulo do Bootcamp GoStack da <a href="https://rocketseat.com.br/" target="_blank">Rockeseat.</a></p>
 
 Projeto em Typescript abordando contúdos de padrão de códigos (EditorConfig, ESLint, Prettier), parâmetros nomeados,
 configurando o Visual Studio para debug em Node e ajustes para melhorar a produtividade.
+
+
+![](https://github.com/julionery/docs/blob/master/geral/githubexplorer.gif?raw=true)
 
 ### :rocket: Tecnologias
 - [React](https://reactjs.org/ "ReactJS")
